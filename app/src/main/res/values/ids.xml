@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <item name="delivery_label" type="id">delivery_label</item>
+    <item name="delivery_label" type="id">delivery_label</item>
+    <item name="nextday" type="id">nextday</item>
+    <item name="sameday" type="id">sameday</item>
+    <item name="pickup" type="id">pickup</item>
+</resources>
